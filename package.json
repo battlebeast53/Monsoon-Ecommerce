@@ -9,7 +9,8 @@
     "cloudinary": "^1.30.0",
     "connect-flash": "^0.1.1",
     "cookie-parser": "^1.4.4",
-    "dotenv": "^16.5.0",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.6.1",
     "ejs": "^2.7.1",
     "express": "^4.17.1",
     "express-fileupload": "^1.1.6-alpha.6",
@@ -27,6 +28,7 @@
     "node": "^22.13.0",
     "passport": "^0.4.0",
     "passport-local": "^1.0.0",
+    "razorpay": "^2.9.6",
     "resize-img": "^2.0.0"
   },
   "scripts": {

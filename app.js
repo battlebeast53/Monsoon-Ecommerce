@@ -178,6 +178,9 @@ app.use('/',pages);
 
 // app.use('/', generalRoutes);
 
+var paymentRoutes = require("./routes/payments");
+app.use("/payment", paymentRoutes);
+
 
 
 
